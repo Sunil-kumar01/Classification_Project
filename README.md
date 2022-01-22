@@ -36,5 +36,12 @@ An increase in the values of the attributes “Debt Ratio %, Current Liability T
 An increase in the values of the attributes that have a negative correlation with the target attribute helps an organization avoid bankruptcy.
 There seems to be a relation between attributes that have a high correlation with the target attribute and a low correlation with the target attribute.
 I observed several correlations among the top 12 attributes, one of which being “Net Worth/Assets and Debt Ratio %” that is negatively correlated with one another.
+## Summary of work 
+
+Started with data loading and importing the libraries and then started with exploring the data and looking into columns and rows. It was seen that there were no missing values.
+I have made little observation while working on the project that the number of organizations that have gone bankrupt in 10 years between 1999 – 2000 is few. Several companies possess many assets, which is always a good sign for an organization. An organization cannot guarantee not being bankrupt, although owning several assets. The organizations in the dataset are running into losses for the past two years as their net income poses be negative An increase in the values of the attributes that have a negative correlation with the target attribute helps an organization avoid bankruptcy. There seems to be a relation between attributes that have a high correlation with the target attribute and a low correlation with the target attribute. I observed several correlations among the top 12 attributes, one of which being “Net Worth/Assets and Debt Ratio %” that is negatively correlated with one another.
+While looking into Bankrupt? Column It was seen that column was following an almost normal distribution. While exploring Bankrupt? Column further it was evident that data is imbalanced and there is a huge difference between bankrupt and non-bankrupt companies.
+
+
 
 
